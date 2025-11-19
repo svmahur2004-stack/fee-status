@@ -32,4 +32,4 @@ print("Balance      :", balance)
 if balance == "0":
     print("Status       : All fees paid ✔")
 else:
-    print("Status       : Pending payment ❗")
+    print("Status       : Pending payment ")
